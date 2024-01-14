@@ -8,8 +8,7 @@
 <p>Two strings are considered <strong>close</strong> if you can attain one from the other using the following operations:</p>
 
 <ul>
-	<li>Operation 1: Swap any two <strong>existing</strong> characters.
-
+	Operation 1: Swap any two <strong>existing</strong> characters.
 	<ul>
 		<li>For example, <code>a<u>b</u>cd<u>e</u> -&gt; a<u>e</u>cd<u>b</u></code></li>
 	</ul>
