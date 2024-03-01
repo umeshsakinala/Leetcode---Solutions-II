@@ -27,7 +27,8 @@
 
 <pre><strong>Input:</strong> s = "0101"
 <strong>Output:</strong> "1001"
-<strong>Explanation: </strong>One of the '1's must be in the last position. The maximum number that can be made with the remaining digits is "100". So the answer is "1001".
+<strong>Explanation: </strong>One of the '1's must be in the last position. The maximum number that can be made with the remaining 
+digits is "100". So the answer is "1001".
 </pre>
 
 <p>&nbsp;</p>
