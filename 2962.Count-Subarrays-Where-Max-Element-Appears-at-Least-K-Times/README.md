@@ -18,7 +18,8 @@
 
 <pre><strong>Input:</strong> nums = [1,3,2,3,3], k = 2
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> The subarrays that contain the element 3 at least 2 times are: [1,3,2,3], [1,3,2,3,3], [3,2,3], [3,2,3,3], [2,3,3] and [3,3].
+<strong>Explanation:</strong> The subarrays that contain the element 3 at least 2 times are: [1,3,2,3], [1,3,2,3,3], [3,2,3], [3,2,3,3], [2,3,3] 
+and [3,3].
 </pre>
 
 <p><strong>Example 2:</strong></p>
