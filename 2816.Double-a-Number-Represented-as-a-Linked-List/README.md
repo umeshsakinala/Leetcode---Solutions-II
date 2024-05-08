@@ -16,16 +16,16 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2023/05/28/example.png" style="width: 401px; height: 81px;">
 <pre><strong>Input:</strong> head = [1,8,9]
 <strong>Output:</strong> [3,7,8]
-<strong>Explanation:</strong> The figure above corresponds to the given linked list which represents the number 189. Hence, the returned linked 
-list represents the number 189 * 2 = 378.
+<strong>Explanation:</strong> The figure above corresponds to the given linked list which represents the number 189. Hence, the returned
+linked list represents the number 189 * 2 = 378.
 </pre>
 
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2023/05/28/example2.png" style="width: 401px; height: 81px;">
 <pre><strong>Input:</strong> head = [9,9,9]
 <strong>Output:</strong> [1,9,9,8]
-<strong>Explanation:</strong> The figure above corresponds to the given linked list which represents the number 999. Hence, the returned linked 
-list reprersents the number 999 * 2 = 1998.
+<strong>Explanation:</strong> The figure above corresponds to the given linked list which represents the number 999. Hence, the returned 
+linked list reprersents the number 999 * 2 = 1998. 
 </pre>
 
 <p>&nbsp;</p>
