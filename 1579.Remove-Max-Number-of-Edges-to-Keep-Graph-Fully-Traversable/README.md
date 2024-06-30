@@ -26,7 +26,8 @@
 
 <pre><strong>Input:</strong> n = 4, edges = [[3,1,2],[3,2,3],[1,1,3],[1,2,4],[1,1,2],[2,3,4]]
 <strong>Output:</strong> 2
-<strong>Explanation: </strong>If we remove the 2 edges [1,1,2] and [1,1,3]. The graph will still be fully traversable by Alice and Bob. Removing any additional edge will not make it so. So the maximum number of edges we can remove is 2.
+<strong>Explanation: </strong>If we remove the 2 edges [1,1,2] and [1,1,3]. The graph will still be fully traversable by Alice and Bob.
+Removing any additional edge will not make it so. So the maximum number of edges we can remove is 2.
 </pre>
 
 <p><strong>Example 2:</strong></p>
@@ -44,7 +45,8 @@
 
 <pre><strong>Input:</strong> n = 4, edges = [[3,2,3],[1,1,2],[2,3,4]]
 <strong>Output:</strong> -1
-<b>Explanation: </b>In the current graph, Alice cannot reach node 4 from the other nodes. Likewise, Bob cannot reach 1. Therefore it's impossible to make the graph fully traversable.</pre>
+<b>Explanation: </b>In the current graph, Alice cannot reach node 4 from the other nodes. Likewise, Bob cannot reach 1. 
+Therefore it's impossible to make the graph fully traversable.</pre>
 
 <p>&nbsp;</p>
 
