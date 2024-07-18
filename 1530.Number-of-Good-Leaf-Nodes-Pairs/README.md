@@ -16,14 +16,16 @@
 <img alt="" src="https://assets.leetcode.com/uploads/2020/07/09/e1.jpg" style="width: 250px; height: 250px;">
 <pre><strong>Input:</strong> root = [1,2,3,null,4], distance = 3
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> The leaf nodes of the tree are 3 and 4 and the length of the shortest path between them is 3. This is the only good pair.
+<strong>Explanation:</strong> The leaf nodes of the tree are 3 and 4 and the length of the shortest path between them is 3. This is the only good
+pair.
 </pre>
 
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2020/07/09/e2.jpg" style="width: 250px; height: 182px;">
 <pre><strong>Input:</strong> root = [1,2,3,4,5,6,7], distance = 3
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> The good pairs are [4,5] and [6,7] with shortest path = 2. The pair [4,6] is not good because the length of ther shortest path between them is 4.
+<strong>Explanation:</strong> The good pairs are [4,5] and [6,7] with shortest path = 2. The pair [4,6] is not good because the length of the
+shortest path between them is 4.
 </pre>
 
 <p><strong>Example 3:</strong></p>
