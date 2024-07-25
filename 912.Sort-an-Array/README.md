@@ -16,7 +16,8 @@
 
 <pre><strong>Input:</strong> nums = [5,2,3,1]
 <strong>Output:</strong> [1,2,3,5]
-<strong>Explanation:</strong> After sorting the array, the positions of some numbers are not changed (for example, 2 and 3), while the positions of other numbers are changed (for example, 1 and 5).
+<strong>Explanation:</strong> After sorting the array, the positions of some numbers are not changed (for example, 2 and 3), while the positions 
+of other numbers are changed (for example, 1 and 5).
 </pre>
 
 <p><strong>Example 2:</strong></p>
