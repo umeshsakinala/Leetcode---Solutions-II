@@ -24,7 +24,8 @@ City 0 -&gt; [City 1, City 2]&nbsp;
 City 1 -&gt; [City 0, City 2, City 3]&nbsp;
 City 2 -&gt; [City 0, City 1, City 3]&nbsp;
 City 3 -&gt; [City 1, City 2]&nbsp;
-Cities 0 and 3 have 2 neighboring cities at a distanceThreshold = 4, but we have to return city 3 since it has the greatest number.
+Cities 0 and 3 have 2 neighboring cities at a distanceThreshold = 4, but we have to return city 3 since it has the greatest 
+number.
 </pre>
 
 <p><strong>Example 2:</strong></p>
