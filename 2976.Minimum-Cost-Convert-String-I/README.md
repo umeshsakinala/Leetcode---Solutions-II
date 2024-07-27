@@ -18,7 +18,8 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> source = "abcd", target = "acbe", original = ["a","b","c","c","e","d"], changed = ["b","c","b","e","b","e"], cost = [2,5,5,1,2,20]
+<pre><strong>Input:</strong> source = "abcd", target = "acbe", original = ["a","b","c","c","e","d"], changed = ["b","c","b","e","b","e"], 
+cost = [2,5,5,1,2,20]
 <strong>Output:</strong> 28
 <strong>Explanation:</strong> To convert the string "abcd" to string "acbe":
 - Change value at index 1 from 'b' to 'c' at a cost of 5.
@@ -33,7 +34,9 @@ It can be shown that this is the minimum possible cost.
 
 <pre><strong>Input:</strong> source = "aaaa", target = "bbbb", original = ["a","c"], changed = ["c","b"], cost = [1,2]
 <strong>Output:</strong> 12
-<strong>Explanation:</strong> To change the character 'a' to 'b' change the character 'a' to 'c' at a cost of 1, followed by changing the character 'c' to 'b' at a cost of 2, for a total cost of 1 + 2 = 3. To change all occurrences of 'a' to 'b', a total cost of 3 * 4 = 12 is incurred.
+<strong>Explanation:</strong> To change the character 'a' to 'b' change the character 'a' to 'c' at a cost of 1, followed by changing the
+character 'c' to 'b' at a cost of 2, for a total cost of 1 + 2 = 3. To change all occurrences of 'a' to 'b', a total cost of 
+3 * 4 = 12 is incurred.
 </pre>
 
 <p><strong>Example 3:</strong></p>
