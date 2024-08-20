@@ -22,7 +22,9 @@
 
 <pre><strong>Input:</strong> piles = [2,7,9,4,4]
 <strong>Output:</strong> 10
-<strong>Explanation:</strong>  If Alice takes one pile at the beginning, Bob takes two piles, then Alice takes 2 piles again. Alice can get 2 + 4 + 4 = 10 piles in total. If Alice takes two piles at the beginning, then Bob can take all three piles left. In this case, Alice get 2 + 7 = 9 piles in total. So we return 10 since it's larger. 
+<strong>Explanation:</strong>  If Alice takes one pile at the beginning, Bob takes two piles, then Alice takes 2 piles again. 
+Alice can get 2 + 4 + 4 = 10 piles in total. If Alice takes two piles at the beginning, then Bob can take all three piles left. 
+In this case, Alice get 2 + 7 = 9 piles in total. So we return 10 since it's larger. 
 </pre>
 
 <p><strong>Example 2:</strong></p>
