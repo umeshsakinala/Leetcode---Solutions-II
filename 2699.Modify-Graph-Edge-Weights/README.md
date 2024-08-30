@@ -33,7 +33,8 @@
 
 <pre><strong>Input:</strong> n = 3, edges = [[0,1,-1],[0,2,5]], source = 0, destination = 2, target = 6
 <strong>Output:</strong> []
-<strong>Explanation:</strong> The graph above contains the initial edges. It is not possible to make the distance from 0 to 2 equal to 6 by modifying the edge with weight -1. So, an empty array is returned.
+<strong>Explanation:</strong> The graph above contains the initial edges. It is not possible to make the distance from 0 to 2 equal to 
+6 by modifying the edge with weight -1. So, an empty array is returned.
 </pre>
 
 <p><strong>Example 3:</strong></p>
