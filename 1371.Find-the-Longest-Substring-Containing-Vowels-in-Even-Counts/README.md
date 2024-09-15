@@ -14,7 +14,8 @@
 
 <pre><strong>Input:</strong> s = "eleetminicoworoep"
 <strong>Output:</strong> 13
-<strong>Explanation: </strong>The longest substring is "leetminicowor" which contains two each of the vowels: <strong>e</strong>, <strong>i</strong> and <strong>o</strong> and zero of the vowels: <strong>a</strong> and <strong>u</strong>.
+<strong>Explanation: </strong>The longest substring is "leetminicowor" which contains two each of the vowels: <strong>e</strong>, <strong>i</strong> and <strong>o</strong> and zero of the vowels: 
+<strong>a</strong> and <strong>u</strong>.
 </pre>
 
 <p><strong>Example 2:</strong></p>
